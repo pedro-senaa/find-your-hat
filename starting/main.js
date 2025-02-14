@@ -32,6 +32,6 @@ const myField = new Field([
     ['░', '^', '░'],
   ]);
                                             //    creates and prints field
-  myField.print();
+// myField.print();
   
 myField.movement('s')
